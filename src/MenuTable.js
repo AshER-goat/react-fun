@@ -29,7 +29,7 @@ export class MenuTable extends React.Component {
             )
         });
         return (
-            <div id="homeMenu" className="row row-cols-3 mx-5">
+            <div id="homeMenu" className="row row-cols-3 mx-0">
                 {menuPageLinks1}
                 {menuPageLinks2}
                 {menuPageLinks3}   
