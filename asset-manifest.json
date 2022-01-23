@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-fun/static/css/main.c450d20d.css",
+    "main.css": "/react-fun/static/css/main.d174dcc6.css",
     "main.js": "/react-fun/static/js/main.bcd6802f.js",
     "static/js/787.424382ca.chunk.js": "/react-fun/static/js/787.424382ca.chunk.js",
     "static/media/background_trees 01_trans.png": "/react-fun/static/media/background_trees 01_trans.22e92ba1e0b4a22bf458.png",
@@ -28,12 +28,12 @@
     "static/media/Peach_avatar.jpg": "/react-fun/static/media/Peach_avatar.07771303d72d45d7d8cb.jpg",
     "static/media/Watermelon_avatar.jpg": "/react-fun/static/media/Watermelon_avatar.65f9c2583b08e6b8d48c.jpg",
     "index.html": "/react-fun/index.html",
-    "main.c450d20d.css.map": "/react-fun/static/css/main.c450d20d.css.map",
+    "main.d174dcc6.css.map": "/react-fun/static/css/main.d174dcc6.css.map",
     "main.bcd6802f.js.map": "/react-fun/static/js/main.bcd6802f.js.map",
     "787.424382ca.chunk.js.map": "/react-fun/static/js/787.424382ca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c450d20d.css",
+    "static/css/main.d174dcc6.css",
     "static/js/main.bcd6802f.js"
   ]
 }
