@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-fun/static/css/main.c450d20d.css",
+    "main.js": "/react-fun/static/js/main.bcd6802f.js",
+    "static/js/787.424382ca.chunk.js": "/react-fun/static/js/787.424382ca.chunk.js",
+    "static/media/background_trees 01_trans.png": "/react-fun/static/media/background_trees 01_trans.22e92ba1e0b4a22bf458.png",
+    "static/media/Kawaii Japanese monkey.png": "/react-fun/static/media/Kawaii Japanese monkey.168db721788c5396e9c2.png",
+    "static/media/Dragonfruit pitahaya_avatar.jpg": "/react-fun/static/media/Dragonfruit pitahaya_avatar.d087bedbb3271d71c352.jpg",
+    "static/media/Tomato_avatar.jpg": "/react-fun/static/media/Tomato_avatar.64931c85bc9a0064b0ea.jpg",
+    "static/media/Banana_avatar.jpg": "/react-fun/static/media/Banana_avatar.c9cb662e650c6671e65d.jpg",
+    "static/media/Plum_avatar.jpg": "/react-fun/static/media/Plum_avatar.9a28ae02f856abd0185c.jpg",
+    "static/media/Pineapple_avatar.jpg": "/react-fun/static/media/Pineapple_avatar.16e4e05cdde1e9c45c53.jpg",
+    "static/media/Cantaloupe_avatar.jpg": "/react-fun/static/media/Cantaloupe_avatar.79a8f25b7468ca9803bb.jpg",
+    "static/media/Apricot_avatar.jpg": "/react-fun/static/media/Apricot_avatar.a5c3ed3ee185fb795e94.jpg",
+    "static/media/Strawberry_avatar.jpg": "/react-fun/static/media/Strawberry_avatar.d87e3459c06d3095a068.jpg",
+    "static/media/Cherries_avatar.jpg": "/react-fun/static/media/Cherries_avatar.b5224812f35786fd566f.jpg",
+    "static/media/Lemon_avatar.jpg": "/react-fun/static/media/Lemon_avatar.e90a8a04116e68a133af.jpg",
+    "static/media/Durian_avatar.jpg": "/react-fun/static/media/Durian_avatar.43d6b5b968a4f689fec5.jpg",
+    "static/media/Orange_avatar.jpg": "/react-fun/static/media/Orange_avatar.dbafe12614024a107084.jpg",
+    "static/media/Pear_avatar.jpg": "/react-fun/static/media/Pear_avatar.5a8683d999a7138bdd36.jpg",
+    "static/media/Apple_avatar.jpg": "/react-fun/static/media/Apple_avatar.0e541700338771f65295.jpg",
+    "static/media/Blackberries_avatar.jpg": "/react-fun/static/media/Blackberries_avatar.e42c64c018b6ca4629a5.jpg",
+    "static/media/Raspberries_avatar.jpg": "/react-fun/static/media/Raspberries_avatar.9c8d2ac13b4ae80d09fc.jpg",
+    "static/media/Blueberries_avatar.jpg": "/react-fun/static/media/Blueberries_avatar.7b62be361889fa70a020.jpg",
+    "static/media/Mango_avatar.jpg": "/react-fun/static/media/Mango_avatar.858d28164b8de30113c6.jpg",
+    "static/media/Coconut_avatar.jpg": "/react-fun/static/media/Coconut_avatar.d587221957b72d9f898b.jpg",
+    "static/media/Grapes_avatar.jpg": "/react-fun/static/media/Grapes_avatar.bddf7292f916e89514bc.jpg",
+    "static/media/Peach_avatar.jpg": "/react-fun/static/media/Peach_avatar.07771303d72d45d7d8cb.jpg",
+    "static/media/Watermelon_avatar.jpg": "/react-fun/static/media/Watermelon_avatar.65f9c2583b08e6b8d48c.jpg",
+    "index.html": "/react-fun/index.html",
+    "main.c450d20d.css.map": "/react-fun/static/css/main.c450d20d.css.map",
+    "main.bcd6802f.js.map": "/react-fun/static/js/main.bcd6802f.js.map",
+    "787.424382ca.chunk.js.map": "/react-fun/static/js/787.424382ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c450d20d.css",
+    "static/js/main.bcd6802f.js"
+  ]
+}
