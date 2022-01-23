@@ -3,7 +3,7 @@ import './index.css';
 
 export class MenuTable extends React.Component {
     render() {
-        const menuPages1 = ['Poo', 'Breakfast', 'Coffee'];
+        const menuPages1 = ['Specials', 'Breakfast', 'Coffee'];
         const menuPages2 = ['Appetizers', 'FULL MENU', 'Lunch'];
         const menuPages3 = ['Wines', 'Dinner', 'Favorites'];
 
