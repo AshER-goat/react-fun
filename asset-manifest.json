@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-fun/static/css/main.d174dcc6.css",
-    "main.js": "/react-fun/static/js/main.30eb6b2d.js",
+    "main.js": "/react-fun/static/js/main.abac8598.js",
     "static/js/787.424382ca.chunk.js": "/react-fun/static/js/787.424382ca.chunk.js",
     "static/media/background_trees 01_trans.png": "/react-fun/static/media/background_trees 01_trans.22e92ba1e0b4a22bf458.png",
     "static/media/Kawaii Japanese monkey.png": "/react-fun/static/media/Kawaii Japanese monkey.168db721788c5396e9c2.png",
@@ -29,11 +29,11 @@
     "static/media/Watermelon_avatar.jpg": "/react-fun/static/media/Watermelon_avatar.65f9c2583b08e6b8d48c.jpg",
     "index.html": "/react-fun/index.html",
     "main.d174dcc6.css.map": "/react-fun/static/css/main.d174dcc6.css.map",
-    "main.30eb6b2d.js.map": "/react-fun/static/js/main.30eb6b2d.js.map",
+    "main.abac8598.js.map": "/react-fun/static/js/main.abac8598.js.map",
     "787.424382ca.chunk.js.map": "/react-fun/static/js/787.424382ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d174dcc6.css",
-    "static/js/main.30eb6b2d.js"
+    "static/js/main.abac8598.js"
   ]
 }
